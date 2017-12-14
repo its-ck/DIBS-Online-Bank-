@@ -1,0 +1,18 @@
+
+Software Specification:
+   
+   Os Environment-Any Platform(Windows, Linux, Mac)
+   Eclipse Oxygen,
+   Tomcat(9.0),
+   Oracle 10g,
+   Any Browser.
+   
+   
+   
+   Development Specification :
+   
+   IDE:                      Eclipse 
+   FRONT END:                CSS, JavaScript , HTML,
+   PROGRAMMING LANGUAGE:     JAVA
+   BACK END:                 Oracle 10g, JSP, JDBC
+
